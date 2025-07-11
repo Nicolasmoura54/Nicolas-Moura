@@ -27,7 +27,7 @@ Nice to meet you!😊
 ### <h2 align="left">Contacts </h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/nicolasmoura54/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <a href=mailto:nicolasmouraignacio@outlook.com">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="52" height="50" alt="linkedin logo"/>
+  <a href="nicolasmouraignacio@outlook.com">
+  <img src="https://img.icons8.com/?size=100&id=117562&format=png&color=000000" width="53" height="50" alt="outlook logo"/>
 </div>
